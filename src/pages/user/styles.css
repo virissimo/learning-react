@@ -1,0 +1,18 @@
+.user-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px 0;
+}
+
+.user-info p {
+    padding: 5px;
+}
+
+.user-info .email {
+    font-size: 16px;
+    color: #999;
+    margin-bottom: 15px;
+    line-height: 24px;
+    padding: 0;
+}
+
